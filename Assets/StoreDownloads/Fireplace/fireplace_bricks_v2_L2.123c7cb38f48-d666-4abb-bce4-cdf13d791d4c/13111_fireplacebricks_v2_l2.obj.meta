@@ -1,0 +1,142 @@
+fileFormatVersion: 2
+guid: 3731054f9e80e1249b66b964d3f2db83
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 13111_fireplace_bricks
+    100002: 13111_fireplace_bricks_floor
+    100004: 13111_fireplace_bricks_underfire
+    100006: 13111_fireplace_bricks_underfirelegs
+    100008: 13111_fireplace_bricks_woodsburn_01
+    100010: 13111_fireplace_bricks_woodsburn_02
+    100012: 13111_fireplace_bricks_woodsburn_03
+    100014: 13111_fireplace_bricks_woodsburn_04
+    100016: 13111_fireplace_bricks_woodsburn_05
+    100018: //RootNode
+    400000: 13111_fireplace_bricks
+    400002: 13111_fireplace_bricks_floor
+    400004: 13111_fireplace_bricks_underfire
+    400006: 13111_fireplace_bricks_underfirelegs
+    400008: 13111_fireplace_bricks_woodsburn_01
+    400010: 13111_fireplace_bricks_woodsburn_02
+    400012: 13111_fireplace_bricks_woodsburn_03
+    400014: 13111_fireplace_bricks_woodsburn_04
+    400016: 13111_fireplace_bricks_woodsburn_05
+    400018: //RootNode
+    2100000: 13111_fireplace_bricks
+    2100002: 13111_fireplace_floor
+    2100004: 13111_fireplace_metal
+    2100006: 13111_fireplace_woodsburn
+    2300000: 13111_fireplace_bricks
+    2300002: 13111_fireplace_bricks_floor
+    2300004: 13111_fireplace_bricks_underfire
+    2300006: 13111_fireplace_bricks_underfirelegs
+    2300008: 13111_fireplace_bricks_woodsburn_01
+    2300010: 13111_fireplace_bricks_woodsburn_02
+    2300012: 13111_fireplace_bricks_woodsburn_03
+    2300014: 13111_fireplace_bricks_woodsburn_04
+    2300016: 13111_fireplace_bricks_woodsburn_05
+    3300000: 13111_fireplace_bricks
+    3300002: 13111_fireplace_bricks_floor
+    3300004: 13111_fireplace_bricks_underfire
+    3300006: 13111_fireplace_bricks_underfirelegs
+    3300008: 13111_fireplace_bricks_woodsburn_01
+    3300010: 13111_fireplace_bricks_woodsburn_02
+    3300012: 13111_fireplace_bricks_woodsburn_03
+    3300014: 13111_fireplace_bricks_woodsburn_04
+    3300016: 13111_fireplace_bricks_woodsburn_05
+    4300000: 13111_fireplace_bricks
+    4300002: 13111_fireplace_bricks_floor
+    4300004: 13111_fireplace_bricks_underfire
+    4300006: 13111_fireplace_bricks_underfirelegs
+    4300008: 13111_fireplace_bricks_woodsburn_01
+    4300010: 13111_fireplace_bricks_woodsburn_02
+    4300012: 13111_fireplace_bricks_woodsburn_03
+    4300014: 13111_fireplace_bricks_woodsburn_04
+    4300016: 13111_fireplace_bricks_woodsburn_05
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
