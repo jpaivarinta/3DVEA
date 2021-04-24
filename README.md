@@ -1,4 +1,6 @@
-## 3DVEA - Escape room  
+## 3DVEA - Escape room 
+
+Escape room -type PC-game developed using Unity.
   
 Creators:  
 Joona Päivärinta  
